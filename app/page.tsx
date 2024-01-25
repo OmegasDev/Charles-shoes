@@ -2,6 +2,6 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main> new word</main>
+    <main> my word</main>
   );
 }
